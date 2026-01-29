@@ -1,6 +1,6 @@
 function unlock() {
   const pwd = document.getElementById("password").value;
-  if (pwd === "1402") { // change password
+  if (pwd === "0615") { // change password
     document.getElementById("love").style.display = "block";
   } else {
     alert("Wrong code 😜");
